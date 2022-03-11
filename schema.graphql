@@ -10,7 +10,7 @@ type StarterEntity @entity {
 
   field4: Date
 
-  field5: Boolean
+  field5: 
 
 
 
